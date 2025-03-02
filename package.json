@@ -1,0 +1,13 @@
+{
+  "name": "signup-signin",
+  "version": "1.0.0",
+  "description": "Simple signup and signin backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "mongodb": "^5.0.0",
+    "bcryptjs": "^2.4.3"
+  }
+}
